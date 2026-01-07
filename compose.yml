@@ -29,7 +29,6 @@ services:
     volumes:
       - ./minecraft-data:/data
       - ./content/datapacks:/data/world/datapacks:ro
-      - ./content/resourcepacks:/data/world/resourcepacks:ro
       - ./content/mods:/mods:ro
 
 
