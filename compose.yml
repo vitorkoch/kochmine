@@ -1,0 +1,36 @@
+services:
+  minecraft-server:
+    image: itzg/minecraft-server
+    pull_policy: daily
+    container_name: mc-server
+    ports:
+      - "25565:25565"
+
+    env_file:
+      - .env
+      
+    environment:
+      EULA: "TRUE"
+      TYPE: "FABRIC" 
+      VERSION: "1.21.10"
+      MEMORY: "${MEMORY-2G}"          
+      MOTD: "Bem vindo ao KochMine!"
+      DIFFICULTY: "normal"
+      ONLINE_MODE: "FALSE"
+      SERVER_NAME: "KochMine"
+      TZ: "${TZ:-America/Belem}"
+      ICON: "${ICON}"
+      MAX_PLAYERS: "${MAX_PLAYERS-5}"
+      FORCE_GAMEMODE: "TRUE"
+      SNOOPER_ENABLED: "FALSE"
+      ENABLE_STATUS: "TRUE"
+      RESOURCE_PACK_ENFORCE: "TRUE"
+
+    volumes:
+      - ./minecraft-data:/data
+      - ./content/datapacks:/data/world/datapacks:ro
+      - ./content/resourcepacks:/data/world/resourcepacks:ro
+      - ./content/mods:/mods:ro
+
+
+    restart: unless-stopped
