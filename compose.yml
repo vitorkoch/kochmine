@@ -30,6 +30,7 @@ services:
       - ./minecraft-data:/data
       - ./content/datapacks:/data/world/datapacks:ro
       - ./content/mods:/mods:ro
+      - ./content/plugins:/plugins:ro
 
 
     restart: unless-stopped
