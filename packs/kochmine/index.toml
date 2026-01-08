@@ -11,11 +11,6 @@ hash = "6a492387f6348192bcb9e2ee15f9be142100648ce60080a75f980185cb66ee13"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "2dda36229536c02155b8bdc705598904b74b3e958e56bf7946785f59c3427a9b"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -33,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
-metafile = true
-
-[[files]]
-file = "mods/cut-through.pw.toml"
-hash = "177daaf001a8ed771e725da1a5bde6112c3184971cf38e51a603cdd08f4446ab"
 metafile = true
 
 [[files]]
