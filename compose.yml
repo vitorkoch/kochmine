@@ -12,19 +12,16 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "FABRIC" 
-      VERSION: "1.21.10"
-      MEMORY: "${MEMORY-2G}"          
+      VERSION: "1.21.1"
+      MEMORY: "${MEMORY-1G}"          
       MOTD: "Bem vindo ao KochMine!"
       DIFFICULTY: "normal"
       ONLINE_MODE: "FALSE"
       SERVER_NAME: "KochMine"
-      TZ: "${TZ:-America/Belem}"
-      ICON: "${ICON}"
-      MAX_PLAYERS: "${MAX_PLAYERS-5}"
+      MAX_PLAYERS: "${MAX_PLAYERS-3}"
       FORCE_GAMEMODE: "TRUE"
       SNOOPER_ENABLED: "FALSE"
       ENABLE_STATUS: "TRUE"
-      RESOURCE_PACK_ENFORCE: "TRUE"
 
     volumes:
       - ./minecraft-data:/data
