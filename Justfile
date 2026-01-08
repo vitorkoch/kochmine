@@ -1,5 +1,12 @@
+default:
+  just --list
+
 start:
-	docker compose up
+	docker compose up -d
+
+[working-directory: 'packs/kochmine']
+build:
+	packwiz mr export
 
 stop: 
 	docker compose down
@@ -7,10 +14,6 @@ stop:
 clean: stop
 	rm -rf ./minecraft-data
 
-install-client:
-	cp -r ./content/mods/** ~/.minecraft/mods
-	cp -r ./only-client/resourcepacks/** ~/.minecraft/resourcepacks
-	cp -r ./only-client/shaderpacks/** ~/.minecraft/shaderpacks
+restart: stop start
 
-
-restart: clean start
+clean-restart: clean start
