@@ -2,7 +2,7 @@ default:
   just --list
 
 start:
-	docker compose up -d
+	docker compose up
 
 [working-directory: 'packs/kochmine']
 build:
