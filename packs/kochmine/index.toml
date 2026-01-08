@@ -81,6 +81,11 @@ hash = "6492b21e2a58e97ab65ff384db18606ce317ea3b78fad7051e6e34899fe8e85b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "89988c8c1f16ca137c8e494f355eb42f974a19df118046e3338c95cf28a9095a"
 metafile = true
@@ -108,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "acc5199aefdbb418065cf4f3554693fcf9797dc1851a36ca7bad9e660b127763"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "2c1d1804a4bd2380403214b42aec041847ba3aa6aa1bf7c12c07f81b2ab8f711"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "f5d434a0ddf59f5217ad141d3bdd8a61fecfdbf1f484d4ff3f6c84610b197a92"
 metafile = true
 
 [[files]]
@@ -173,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/tpa.pw.toml"
+hash = "da6df2dcc894fafc22896bca1bce1e2c89679134a72cd29031f27e685997a17a"
 metafile = true
 
 [[files]]

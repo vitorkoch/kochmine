@@ -1,0 +1,13 @@
+name = "PandaLib"
+filename = "pandalib-fabric-1.21.1-1.0.0-ALPHA.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/2rmKo2Fo/pandalib-fabric-1.21.1-1.0.0-ALPHA.2.1.jar"
+hash-format = "sha512"
+hash = "f84e379c8694a26b0f8fb17ec7bb98faeee735cb4f1af4893a63d93982d9000d78eb2878157429315aeca4811f4dcc7026522ca34f27d44afc590a90d0be7437"
+
+[update]
+[update.modrinth]
+mod-id = "mEEGbEIu"
+version = "2rmKo2Fo"
