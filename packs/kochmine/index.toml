@@ -66,11 +66,6 @@ hash = "844fb8f081b3f6a0ecb1ca59bfeb643c7032d22fcefaac395108a22848d88b45"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "5c9e35e1c2df866f97371ce64eb8d5428310716c7246bb77e542fcf62680d92a"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
@@ -78,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "2038b1cdf8f16003e475637fd4913d3e68453a6104e907d545a29b85bd6c054f"
 metafile = true
 
 [[files]]
