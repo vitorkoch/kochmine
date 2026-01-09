@@ -8,10 +8,6 @@ start:
 build:
 	packwiz mr export
 
-[working-directory: 'packs/kochmine']
-serve:
-	packwiz serve
-
 stop: 
 	docker compose down
 

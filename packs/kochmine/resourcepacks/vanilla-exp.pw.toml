@@ -1,0 +1,13 @@
+name = "Vanilla Experience+"
+filename = "§b§lVanilla Experience+§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bf2GogI/versions/GGEpPbd5/%C2%A7b%C2%A7lVanilla%20Experience%2B%C2%A70.zip"
+hash-format = "sha512"
+hash = "6beddc1087425529664fefd9375a8ec22cec5a85ac9c7d4ead0c1e71e23fee1d50d667442892db55f5448727e622e95c856fcd516f9f3cbb87b095294c7adb22"
+
+[update]
+[update.modrinth]
+mod-id = "8bf2GogI"
+version = "GGEpPbd5"

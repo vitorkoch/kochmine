@@ -1,3 +1,5 @@
 [tools]
+bat = "latest"
+btop = "latest"
 go = "latest"
 "go:github.com/packwiz/packwiz" = "latest"
