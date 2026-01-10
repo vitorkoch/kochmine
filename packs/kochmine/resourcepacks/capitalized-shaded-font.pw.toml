@@ -1,0 +1,13 @@
+name = "Capitalized Shaded Font"
+filename = "§a§lCapitalized Shaded Font 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hKzehRk/versions/xvNj5xyU/%C2%A7a%C2%A7lCapitalized%20Shaded%20Font%201.1.zip"
+hash-format = "sha512"
+hash = "f664ab494907e6c3e2b98de869eb2f6562f6978c1f89c361b3116ca4eccfdc4f97b4a49d3e56d28a62880a0112f1aafc2c21d327ea1017e79a685db0ff413e5c"
+
+[update]
+[update.modrinth]
+mod-id = "8hKzehRk"
+version = "xvNj5xyU"

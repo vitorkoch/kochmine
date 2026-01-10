@@ -26,8 +26,23 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "d8f4cdc8afe5541c4e2da796f9fb04d3f60bb24a7c79762eb6df5e0d7831e7eb"
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "0fef7a2e43b7c9ec1306a6750cc734214df1be9768a0d4ffaa011508fb706260"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+metafile = true
+
+[[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "7c509b4a79eb222854ca32012a2e74500e4af55300d236b3a13b474e1e373d65"
 metafile = true
 
 [[files]]
@@ -38,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/centered-crosshair.pw.toml"
 hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -71,8 +91,33 @@ hash = "cbdc8e983e7abf04500a44670df0826934add70851cf83abdbf064f9802773ee"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "41440aa391c6fb6ba275a47a78c4353fb5a2e4a76b2cd8d91e7751c7507a2637"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "183a686a2e5076c6dbb6c6d8145a5b10d544295cf1a7bbffd8bbceaf072ede4f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "e7a682a577780a52963a998f6941c13cbd75455a65368e9b665c56efca37cbb6"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "3f79aadc20ee02e53d1810892f0cd9e037575b1a6cf26505a3a514c24f2a55c7"
 metafile = true
 
 [[files]]
@@ -128,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "a1f1206514a1311c556b5e5542dac4acc1d239c9dc6120efe7b7495245376cfb"
+metafile = true
+
+[[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "d82a9b3f9ba777fcfa871322fcc168745c28f9a8ea18032e4ed6f0a3d3d9c32a"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
 metafile = true
 
 [[files]]
@@ -193,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "ea877f00f3a8d3d075f5f05747884b69a0cc0339f6bde23313f6c4c317d14b9a"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "492fe2b4d82b00489ddc4d1f8c3f5489f7f847e999cfd6dec5de27e2ba683811"
 metafile = true
 
 [[files]]
@@ -286,11 +346,6 @@ hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "c8bda7e40ba3e14e7e78d1c1f80be842eb6d0acd21fca7b2e6a962bc810b9e46"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "cc98ef15cb0fb331703af145ea92255765247a2b1d27b87d05a44ad0dc6d9b4e"
 metafile = true
@@ -326,6 +381,11 @@ hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "c5677b5691588845f9ee31bd86ec1c578015e1f00387eb31f523af863ec11cfb"
 metafile = true
@@ -333,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "d7655654c6b8fc819f2a01a4b50bb8b133efb1b5da88394b4af5581599a34a5e"
 metafile = true
 
 [[files]]
@@ -356,13 +421,58 @@ hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/capitalized-shaded-font.pw.toml"
+hash = "ab7d7b1ac2dc3dfe47d3aa0134355bf18f551220cd813e1ef5340d52d0937e12"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fabulous-fences.pw.toml"
+hash = "5e05a65b033a30d99009eb5c26c43133c42e8e1b8b1521b51a37c039bbc4811c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fluffy-carpets.pw.toml"
+hash = "88273a61b4ff94538d919604d031d79616e786153241e00363e39a1d4539876c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "64f90fd9619a092a8a5493d6ad9605bc5fec13f50f02feef1dcf47c9496a80bd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "0d77095fb0f0b0158fa07c1ad720f3680392a8c7453cefe750732eda8082e9c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing.pw.toml"
+hash = "322effa20865c8373a3d0377d6595b59ce24ef1f32874acf13015d5b6d4d0626"
+metafile = true
+
+[[files]]
+file = "resourcepacks/illogically-looping-lanterns.pw.toml"
+hash = "87da6f7815fa2f2696e2be3e283fadda8e80fd186bb5e3890fbd93ed941188da"
 metafile = true
 
 [[files]]
