@@ -1,0 +1,13 @@
+name = "AR's OreUI - Dark"
+filename = "AR's OreUI 1.21.2-1.21.x Dark.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LWYaLBiL/versions/xrkUgiHB/AR%27s%20OreUI%201.21.2-1.21.x%20Dark.zip"
+hash-format = "sha512"
+hash = "63f9b8ce9df5fe693b9ea7c2f3892fbd08d1652b0966809fcf223e85e1490883e7e50afe3a8b4475bc7b0eb170003d9982456f95572bd023c91301b3457e83aa"
+
+[update]
+[update.modrinth]
+mod-id = "LWYaLBiL"
+version = "xrkUgiHB"

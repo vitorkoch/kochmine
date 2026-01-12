@@ -1,0 +1,13 @@
+name = "Cape | Better Capes"
+filename = "BetterCapes-1.4.3+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8slFMT1/versions/mlqRv1By/BetterCapes-1.4.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "69f38c127a8cc465a3a18356e1a40a2b8ff0d81ca326906e4a9a22466994abb0f34b873d463dafe0f2aa3908e56415ce250bfed47793189ad7478a479e93a0fa"
+
+[update]
+[update.modrinth]
+mod-id = "c8slFMT1"
+version = "mlqRv1By"

@@ -1,0 +1,13 @@
+name = "Experimentalist"
+filename = "experimentalist-2.0.2+1.21.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SKCLXAJ2/versions/f071Gh8B/experimentalist-2.0.2%2B1.21.x-fabric.jar"
+hash-format = "sha512"
+hash = "939c59b3115acb8c07dbf677105aa66893c4bd7c6afce7e8e7c4de89615366b5a8506b0374674d9bd7ca585e9872508fcc090fb0122c776063cb891b2b588c48"
+
+[update]
+[update.modrinth]
+mod-id = "SKCLXAJ2"
+version = "f071Gh8B"

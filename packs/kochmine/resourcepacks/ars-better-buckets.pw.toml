@@ -1,0 +1,13 @@
+name = "AR's Better Buckets"
+filename = "BetterBuckets 1.20.2+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ygzNQXz1/versions/FfGSa6wW/BetterBuckets%201.20.2%2B.zip"
+hash-format = "sha512"
+hash = "2c215555a8712a73dbbf42f02cb5558dab860f3942fe9bc4e10645658ecea3dfed336e42b24597fca3bbad06e207e888116b6a80fea599fc4670b57356c860e7"
+
+[update]
+[update.modrinth]
+mod-id = "ygzNQXz1"
+version = "FfGSa6wW"

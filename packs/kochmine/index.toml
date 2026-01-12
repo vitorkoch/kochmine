@@ -31,8 +31,8 @@ hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "0fef7a2e43b7c9ec1306a6750cc734214df1be9768a0d4ffaa011508fb706260"
+file = "mods/better-capes-x.pw.toml"
+hash = "6897286ba79d862f5f54530f7829125c54601d48be22b271c0807afd49691196"
 metafile = true
 
 [[files]]
@@ -56,13 +56,18 @@ hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
 metafile = true
 
 [[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "fee0250fe6953809dfc61bee342bdf8622e5d683125a917b348fd6812a9d1f18"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "bc049c32a9f0a8740f192d2db7c32be5e6c61659062b436425585cf8c1101fbf"
+hash = "df23b9d988e63832d1f91d1efb2595a84ddeed0f5bf119fd6ea62ac0db2eb3c4"
 metafile = true
 
 [[files]]
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "2ada3ac958fb2beff2e913d3094a06cab1b6a794de0e4132b014437d409af397"
+metafile = true
+
+[[files]]
+file = "mods/experimentalist.pw.toml"
+hash = "30c7468f6be4835466f817cab38103eee8ebbe2802ba19813e78cb28aa2e65f6"
 metafile = true
 
 [[files]]
@@ -262,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0cee4ba8e517cb73f6bb535a7ab8470d3131cb2c1be488a05891a3d89686ad63"
+hash = "9bb5786124d37b92c69a649e6d958e69b08d9de1b1b390e43e54b54af137206a"
 metafile = true
 
 [[files]]
@@ -317,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "62df1cb449d5c6f8c5d670f14819a106a451e88102b8b066efeb73951f058d30"
+hash = "1c13286be4f09e25c93ef1640335a951df1dd0f155f6d7a173dfc284831e09c3"
 metafile = true
 
 [[files]]
@@ -353,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "1bb0f24b239a650d19698afc7d98d3e6298bd2bcf520eba0028991ceb685af70"
-metafile = true
-
-[[files]]
-file = "mods/skinshuffle.pw.toml"
-hash = "f0514cffe232d6c2f33b98176f0b61929caa91786547cda99a85dce28d65969f"
 metafile = true
 
 [[files]]
@@ -426,6 +431,26 @@ hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-map-chest-tracker-integration.pw.toml"
+hash = "8a532545ff5969ae83df52f48beffbc19481b2d80a1e4fbb7400a6c9f7ea2c23"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-map-server-utils.pw.toml"
+hash = "75b3010e19f9a02570ef3d9a2c8b013c573631402bb0c03f82856e34edcbaf49"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "120b1b5e775ec88fb6b6a3c11f4d3685a2b28d0badfb73b3606f946599d6b587"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "80d14aa6af38caa8f61f2bd1e98744f6aeda9c0701684ed80422ded03ebab640"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
 metafile = true
@@ -433,6 +458,16 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "fb09f6357ae2e3dcfea36520efde6e9b761efffc63b4dfdec5e4b11011bac58c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-better-buckets.pw.toml"
+hash = "a8468741e3652d6e9b9893bdf0cb5c448590b8a6cdea2cefcb457fbaef598b5c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ars-oreui-dark.pw.toml"
+hash = "9c2f1eca058576d9b01e5548349396ac439f57d022e6a35abcf4344d0d3e3d05"
 metafile = true
 
 [[files]]
