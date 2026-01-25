@@ -1,12 +1,12 @@
 name = "KochMine"
 author = "Vitor Koch"
-version = "2.5.0"
+version = "2.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4fe7fc7dba508936c42c67bc71cc3e4b4a61c26d649cabdce70d1124cc0ed0ff"
+hash = "fd904356adc6d38e65fb36462d520e7248c32a3adc627ac35b5281a22f27833e"
 
 [versions]
 fabric = "0.18.4"

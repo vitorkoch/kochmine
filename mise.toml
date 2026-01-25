@@ -3,3 +3,25 @@ bat = "latest"
 btop = "latest"
 go = "latest"
 "go:github.com/packwiz/packwiz" = "latest"
+"npm:pm2" = "latest"
+
+[tasks.start]
+run = "docker compose up "
+
+[tasks.stop]
+run = "docker compose down"
+
+[tasks.restart]
+depends = ['stop', 'start']
+
+[tasks.build]
+run = "packwiz mr export"
+dir = "./pack"
+
+[tasks.update]
+run = "packwiz update --all"
+dir = "./pack"
+
+[tasks.serve]
+run = "pm2 start 'packwiz serve --basic'"
+dir = "./pack"
