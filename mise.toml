@@ -3,6 +3,8 @@ bat = "latest"
 btop = "latest"
 go = "latest"
 "go:github.com/packwiz/packwiz" = "latest"
+lazygit = "latest"
+node = "lts"
 "npm:pm2" = "latest"
 
 [tasks.start]
