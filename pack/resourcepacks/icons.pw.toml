@@ -1,0 +1,13 @@
+name = "Icons"
+filename = "Icons v.1.13.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7z3QKAG/versions/HI2Qcr0G/Icons%20v.1.13.zip"
+hash-format = "sha512"
+hash = "3c7fb43a9ac38fffa97525dfb059ead397eaaba0bfa49e7fdce45193299062339e08b6a973758020b0cbd0e9463fb598c3b8b953ae50fb8ce38f9550a9bd9c40"
+
+[update]
+[update.modrinth]
+mod-id = "O7z3QKAG"
+version = "HI2Qcr0G"

@@ -91,6 +91,11 @@ hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "df23b9d988e63832d1f91d1efb2595a84ddeed0f5bf119fd6ea62ac0db2eb3c4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -227,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
@@ -252,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "37e14a7a0b033feafd7fc1cb82842c128b1b2f2053dd1d11206834d7fcc6f597"
+hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "6492b21e2a58e97ab65ff384db18606ce317ea3b78fad7051e6e34899fe8e85b"
+hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
 metafile = true
 
 [[files]]
@@ -352,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bb5e8243047cc8e6f511c54e351efbbc5ec2c397d05fa2376bbce1e8598f5fe4"
+hash = "41dd0b3f6615c38ffcf177b1d3b1c5c14c31d42af714aeb9cba4fb6d6f1dae15"
 metafile = true
 
 [[files]]
@@ -537,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "abd3e737bb2cc9c04224dad42de238718acc2f89aa9ef0b4a71bd7a70ac507ed"
+hash = "e657896d405e82e4539be5c1562f27c666a9d5ca8dad5d30052a402c4916766e"
 metafile = true
 
 [[files]]
@@ -601,6 +606,11 @@ hash = "9c2f1eca058576d9b01e5548349396ac439f57d022e6a35abcf4344d0d3e3d05"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "17ea105b98d79a0be6ce20da3304f9ed1398c5d9d3ad24cea2c914a109ede78e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/capitalized-shaded-font.pw.toml"
 hash = "ab7d7b1ac2dc3dfe47d3aa0134355bf18f551220cd813e1ef5340d52d0937e12"
 metafile = true
@@ -636,6 +646,16 @@ hash = "322effa20865c8373a3d0377d6595b59ce24ef1f32874acf13015d5b6d4d0626"
 metafile = true
 
 [[files]]
+file = "resourcepacks/gui-exp.pw.toml"
+hash = "774b7ee64e737905bfb85fa45c4a188c65cc490e89ebd462643cc5043810128b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "9cd1c2822427bebc4596168ad6c12ba3512ec7967c0714b36e98339d5b4e4e09"
+metafile = true
+
+[[files]]
 file = "resourcepacks/illogically-looping-lanterns.pw.toml"
 hash = "87da6f7815fa2f2696e2be3e283fadda8e80fd186bb5e3890fbd93ed941188da"
 metafile = true
@@ -643,6 +663,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "b2f202f7437e122b0f62038fd99ac93898d7d36623ca3e7a1ec513c72623b071"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
 metafile = true
 
 [[files]]
@@ -662,5 +692,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+hash = "e433023fe16a7886d1138306eab432756102ffe1c43ae0ad075eade4d27aea7f"
 metafile = true
