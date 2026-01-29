@@ -266,11 +266,6 @@ hash = "dee4bcf007803851b681b84daffe287aa3299a51b80ef5662be7407f65488b41"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ec8051b38aeae6549713ed9c1951fea7f1fabf74fa49aad8c76dcae4cc874ebd"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -638,16 +633,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/glowing-glints.pw.toml"
 hash = "0d77095fb0f0b0158fa07c1ad720f3680392a8c7453cefe750732eda8082e9c9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing.pw.toml"
-hash = "322effa20865c8373a3d0377d6595b59ce24ef1f32874acf13015d5b6d4d0626"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gui-exp.pw.toml"
-hash = "774b7ee64e737905bfb85fa45c4a188c65cc490e89ebd462643cc5043810128b"
 metafile = true
 
 [[files]]
