@@ -23,7 +23,7 @@ services:
       FORCE_GAMEMODE: "TRUE"
       SNOOPER_ENABLED: "FALSE"
       ENABLE_STATUS: "TRUE"
-      VANILLATWEAKS_SHARECODE: 500YxW,5aUGZg,pVzx48
+      VANILLATWEAKS_SHARECODE: 5aUGZg,pVzx48
       PACKWIZ_URL: "${PACKWIZ_URL:-http://localhost:8080/pack.toml}"
 
     volumes:
