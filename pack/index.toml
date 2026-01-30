@@ -296,6 +296,11 @@ hash = "90775f67c0e68b6a3e22fdbcd0dc60ae012a3e35769e24401fe94ab33ceb8c00"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "fe2682e6dbdd4350863e1fcd3f5f211fb437cf7791539bedd50779745beb5232"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
