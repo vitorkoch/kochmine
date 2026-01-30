@@ -9,22 +9,22 @@ services:
       - "25565:25565"
       - "24454:24454/udp"
 
-    env_file:
-      - .env
-      
     environment:
+      TZ: "${TZ:-America/Belem}"
       EULA: "TRUE"
       TYPE: "FABRIC" 
       VERSION: "1.21.1"
-      MEMORY: "${MEMORY-2G}"          
+      INIT_MEMORY: "${MEMORY:-1G}" 
       MOTD: "Bem vindo ao KochMine!"
       DIFFICULTY: "normal"
       ONLINE_MODE: "FALSE"
       SERVER_NAME: "KochMine"
-      MAX_PLAYERS: "${MAX_PLAYERS-3}"
+      MAX_PLAYERS: "${MAX_PLAYERS-5}"
       FORCE_GAMEMODE: "TRUE"
       SNOOPER_ENABLED: "FALSE"
       ENABLE_STATUS: "TRUE"
+      VANILLATWEAKS_SHARECODE: 500YxW,5aUGZg,pVzx48
+      PACKWIZ_URL: "${PACKWIZ_URL:-http://localhost:8080/pack.toml}"
 
     volumes:
       - ./minecraft-data:/data
