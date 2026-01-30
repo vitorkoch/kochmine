@@ -17,7 +17,7 @@ run = "docker compose down"
 depends = ['stop', 'start']
 
 [tasks.build]
-run = "packwiz mr export"
+run = "packwiz cf export"
 dir = "./pack"
 
 [tasks.update]
