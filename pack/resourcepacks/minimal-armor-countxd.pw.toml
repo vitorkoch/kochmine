@@ -1,0 +1,13 @@
+name = "My Minimal Armor"
+filename = "My Minimal Armor 1.21 - 1.21.1 v1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BBx79tDa/versions/F3K0aBpG/My%20Minimal%20Armor%201.21%20-%201.21.1%20v1.4.zip"
+hash-format = "sha512"
+hash = "9ae84b19bf151e48d45bc6791c7019eac101dfbc151c94db2c301109140deb2313a6fcb892945b853172be1ce65dc37ad5511e328d204bff7e6773810ddc8b9b"
+
+[update]
+[update.modrinth]
+mod-id = "BBx79tDa"
+version = "F3K0aBpG"

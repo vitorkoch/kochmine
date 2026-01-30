@@ -651,6 +651,11 @@ hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
 metafile = true
 
 [[files]]
+file = "resourcepacks/minimal-armor-countxd.pw.toml"
+hash = "f514ab31a7afd2b5d34a6085baf4203931bf2a2fb07a5d14d501cd8fbd6fbc98"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rays-3d-ladders.pw.toml"
 hash = "b2f202f7437e122b0f62038fd99ac93898d7d36623ca3e7a1ec513c72623b071"
 metafile = true
