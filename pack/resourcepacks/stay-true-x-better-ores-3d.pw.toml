@@ -1,0 +1,13 @@
+name = "Stay True x Better Ores 3D"
+filename = "Stay True x §7Better§bOres§93D§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5d6d2c297130375d89fc99c02f3da01b5c379fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7438345
+project-id = 1293670

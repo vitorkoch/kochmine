@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "7c509b4a79eb222854ca32012a2e74500e4af55300d236b3a13b474e1e373d65"
+hash = "1ea2272dd22c2a9b78b719441b53012d14e5b3a41175f562bc7482a56c74258c"
 metafile = true
 
 [[files]]
@@ -113,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "f63753e5134374b88816973141800dcec76b7c5774c128f66e1489960fa6f58d"
-metafile = true
-
-[[files]]
-file = "mods/chest-tracker.pw.toml"
-hash = "fee0250fe6953809dfc61bee342bdf8622e5d683125a917b348fd6812a9d1f18"
 metafile = true
 
 [[files]]
@@ -361,11 +356,6 @@ hash = "6b33a81cc84170b69283501fa48552c892b608a42318cb396322fcac88c52ce3"
 metafile = true
 
 [[files]]
-file = "mods/labels.pw.toml"
-hash = "a1905763f6120a084eb348dbd512deb8eb6fb18cb5635db094937483dbc4eea0"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
@@ -453,11 +443,6 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "8980b8a6132621789579dc8bd4f0266be1bc53adde0d3e4565a58764cead0130"
-metafile = true
-
-[[files]]
-file = "mods/pick-up-notifier.pw.toml"
-hash = "af6de4e48064926264441ace0dc8f3193deedd534e2963c25a7700d4dfa6f825"
 metafile = true
 
 [[files]]
@@ -612,22 +597,12 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-overhaul.pw.toml"
-hash = "ae8de97650f8ebff614accd53d732f4983b8bcffcd7d5b225903710040ad9713"
-metafile = true
-
-[[files]]
-file = "mods/tpa.pw.toml"
-hash = "da6df2dcc894fafc22896bca1bce1e2c89679134a72cd29031f27e685997a17a"
+hash = "62192a6b9bb8d32393df0d91838ee50c3a98798d012d462da1905f62d018b42b"
 metafile = true
 
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "cbadc7c7ee3c00babef61035e102dca666e3f75ec94ef2bccb6702cd5811de00"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "e657896d405e82e4539be5c1562f27c666a9d5ca8dad5d30052a402c4916766e"
 metafile = true
 
 [[files]]
@@ -651,18 +626,8 @@ hash = "d9b210470eeaca6109002dcc8c1442dbbef5468bbf7be516651e7fc25b3d5c5e"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
-metafile = true
-
-[[files]]
 file = "mods/worldweaver.pw.toml"
 hash = "d3dccbd68486d3b35054b5a716051fa01a916d808a2aa78a0ada72b31f08c428"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-map-chest-tracker-integration.pw.toml"
-hash = "8a532545ff5969ae83df52f48beffbc19481b2d80a1e4fbb7400a6c9f7ea2c23"
 metafile = true
 
 [[files]]
@@ -762,17 +727,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "9cd1c2822427bebc4596168ad6c12ba3512ec7967c0714b36e98339d5b4e4e09"
-metafile = true
-
-[[files]]
-file = "resourcepacks/illogically-looping-lanterns.pw.toml"
-hash = "87da6f7815fa2f2696e2be3e283fadda8e80fd186bb5e3890fbd93ed941188da"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
-hash = "8ed45d3cf487c5ed8736050223b1b4211d79b44587031238afae1844199727cc"
+hash = "741734de23dd899ca2a27647237330fd760b15d8911f84695c89852439043237"
 metafile = true
 
 [[files]]
@@ -781,13 +736,8 @@ hash = "f514ab31a7afd2b5d34a6085baf4203931bf2a2fb07a5d14d501cd8fbd6fbc98"
 metafile = true
 
 [[files]]
-file = "resourcepacks/rays-3d-ladders.pw.toml"
-hash = "b2f202f7437e122b0f62038fd99ac93898d7d36623ca3e7a1ec513c72623b071"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rays-3d-rails.pw.toml"
-hash = "0e80f97855da0ee8b2cba02d4cc1f3c82f50bd1ec0772645cfd5dd5d6f4e9a86"
+file = "resourcepacks/stay-true-x-better-ores-3d.pw.toml"
+hash = "19094e9c07c055236b2731e887d57285ce3ff2b92289dc2d66397cc1519e289b"
 metafile = true
 
 [[files]]
@@ -807,5 +757,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e433023fe16a7886d1138306eab432756102ffe1c43ae0ad075eade4d27aea7f"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
