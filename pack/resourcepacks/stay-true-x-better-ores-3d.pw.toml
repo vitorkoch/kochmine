@@ -1,13 +1,13 @@
 name = "Stay True x Better Ores 3D"
 filename = "Stay True x §7Better§bOres§93D§0.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d5d6d2c297130375d89fc99c02f3da01b5c379fb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6Yj8BvGb/versions/kQAkjo0g/Stay%20True%20x%20%C2%A77Better%C2%A7bOres%C2%A793D%C2%A70.zip"
+hash-format = "sha512"
+hash = "bc72631a84aa2e7efb5e43ca55e87700a84840d7d2fb1b1a98f2c929f9b56cfeb2f7a6c9656b535983e352c3478bdd302db3fd8ccbc42934457c23d5e690aad7"
 
 [update]
-[update.curseforge]
-file-id = 7438345
-project-id = 1293670
+[update.modrinth]
+mod-id = "6Yj8BvGb"
+version = "kQAkjo0g"
